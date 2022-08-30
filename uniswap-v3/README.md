@@ -113,7 +113,7 @@ let dai: IERC20
 ```
 npx hardhat test
 
-testするとエラーになる。。
+testするとエラーになる。
 ...
 1) SwapExamples
       swapExactInputSingle:
@@ -122,5 +122,3 @@ testするとエラーになる。。
   at SwapExamples.swapExactInputSingle (contracts/SwapExamples.sol:41)
   ...
   ```
-
-`STF`errorについて[解説](https://www.youtube.com/watch?v=vgQx01XbkDA)が理解できずに、解決できてません。。

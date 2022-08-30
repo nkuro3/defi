@@ -24,5 +24,8 @@
   "dependencies": {
     "@uniswap/v3-periphery": "^1.4.1",
     "dotenv": "^16.0.1"
+  },
+  "directories": {
+    "test": "test"
   }
 }
