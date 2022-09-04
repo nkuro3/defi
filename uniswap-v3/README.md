@@ -1,16 +1,10 @@
-# defi
-this repogitory is memo for defi.
+# swap uniswap v3
 
 ## steps
 - [x] project ( hardhat + typescript + react )
 - [ ] swap
   - [ ] uniswap v3 single hop
   - [ ] introduce uniswap wedget
-- [ ] lending
-- [ ] starking
-- [ ] borrow
-- [ ] liquidation
-- [ ] 
 
 ### project
 ```
